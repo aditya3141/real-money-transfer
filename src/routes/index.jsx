@@ -8,8 +8,6 @@ import HomepageFive from "../pages/HomeFive";
 import HomepageSix from "../pages/HomeSix";
 import HomepageSeven from "../pages/HomeSeven";
 import HomepageEight from "../pages/HomeEight";
-import HomepageNine from "../pages/HomeNine";
-import HomepageTen from "../pages/HomeTen";
 import ResetPasswordPage from "../pages/ResetPasswordPage";
 import SignInPage from "../pages/SignInPage";
 import SignUpPage from "../pages/SignUpPage";
@@ -74,14 +72,8 @@ export const router = createBrowserRouter([
     path: "/home-8",
     element: <HomepageEight />,
   },
-  {
-    path: "/home-9",
-    element: <HomepageNine />,
-  },
-  {
-    path: "/home-10",
-    element: <HomepageTen />,
-  },
+
+ 
   {
     path: "/about",
     element: <AboutPage />,
