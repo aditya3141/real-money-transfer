@@ -1,0 +1,79 @@
+{
+  "navListInline": [
+    {
+      "title": "Show All",
+      "data_filter": "*"
+    },
+    {
+      "title": "Website",
+      "data_filter": "portfolio-1"
+    },
+    {
+      "title": "Branding",
+      "data_filter": "portfolio-2"
+    },
+    {
+      "title": "Commercial",
+      "data_filter": "portfolio-3"
+    },
+    {
+      "title": "Digital Art",
+      "data_filter": "portfolio-4"
+    },
+    {
+      "title": "UI/UX Design",
+      "data_filter": "portfolio-5"
+    }
+  ],
+  "portfolioContent": [
+    {
+      "image": "/image/portfolio/portfolio-img1.png",
+      "title": "App — The power of communication",
+      "category": "UI/UX Design",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-1 portfolio-3 portfolio-4"
+    },
+    {
+      "image": "/image/portfolio/portfolio-img2.png",
+      "title": "Website — The future lifestyle platform",
+      "category": "Branding",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-3 portfolio-2 portfolio-5"
+    },
+    {
+      "image": "/image/portfolio/portfolio-img3.png",
+      "title": "Campaign — Provision of  information",
+      "category": "Marketing",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-2 portfolio-3"
+    },
+    {
+      "image": "/image/portfolio/portfolio-img3.png",
+      "title": "Campaign — Provision of  information",
+      "category": "Marketing",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-2 portfolio-1 portfolio-5"
+    },
+    {
+      "image": "/image/portfolio/portfolio-img4.png",
+      "title": "Journal — Asset in business",
+      "category": "Commercial",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-2 portfolio-3 portfolio-4"
+    },
+    {
+      "image": "/image/portfolio/portfolio-img5.png",
+      "title": "Book — Design of the year",
+      "category": "UI/UX Design",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-1 portfolio-3 portfolio-5"
+    },
+    {
+      "image": "/image/portfolio/portfolio-img6.png",
+      "title": "Strategic — Ways to level up your brand",
+      "category": "Branding",
+      "link": "/portfolio-details",
+      "data_filter": "portfolio-2 portfolio-1 portfolio-4 portfolio-5"
+    }
+  ]
+}

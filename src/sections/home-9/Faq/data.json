@@ -1,0 +1,33 @@
+[
+  {
+    "active": "true",
+    "id": "home-9-faq-item",
+    "parent": "home-9_faq",
+    "title": "Q. What is the main purpose for using time tracking?",
+    "body": "Time tracking allows you to make more intelligent decisions about how you price and run projects, how you schedule your team, and even how you spend your day. In short, employee time tracking software is a computer program."
+  },
+  {
+    "id": "home-9-faq-item-2",
+    "parent": "home-9_faq",
+    "title": "Q. Does time tracking improve productivity?",
+    "body": "Time tracking allows you to make more intelligent decisions about how you price and run projects, how you schedule your team, and even how you spend your day. In short, employee time tracking software is a computer program."
+  },
+  {
+    "id": "home-9-faq-item-3",
+    "parent": "home-9-faq",
+    "title": "Q. What are the main features of tracking?",
+    "body": "Time tracking allows you to make more intelligent decisions about how you price and run projects, how you schedule your team, and even how you spend your day. In short, employee time tracking software is a computer program."
+  },
+  {
+    "id": "home-9-faq-item-4",
+    "parent": "home-9-faq",
+    "title": "Q. How does Masco time-tracking software work?",
+    "body": "Time tracking allows you to make more intelligent decisions about how you price and run projects, how you schedule your team, and even how you spend your day. In short, employee time tracking software is a computer program."
+  },
+  {
+    "id": "home-9-faq-item-5",
+    "parent": "home-9-faq",
+    "title": "Q. How much does Masco time-tracking software cost?",
+    "body": "Time tracking allows you to make more intelligent decisions about how you price and run projects, how you schedule your team, and even how you spend your day. In short, employee time tracking software is a computer program."
+  }
+]

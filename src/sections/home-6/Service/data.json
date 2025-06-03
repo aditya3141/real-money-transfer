@@ -1,0 +1,22 @@
+[
+  {
+    "iconSrc": "/image/home-6/service-card-icon-1.svg",
+    "title": "Email Targeting & List Building",
+    "description": "This is where we help you clearly define your target audience & break it up into specific ways"
+  },
+  {
+    "iconSrc": "/image/home-6/service-card-icon-2.svg",
+    "title": "A/B Testing & Experimentation",
+    "description": "Once messaging and the audience is decided we begin experimenting and results in a qualitative"
+  },
+  {
+    "iconSrc": "/image/home-6/service-card-icon-3.svg",
+    "title": "Scale Email Hyper-personalization",
+    "description": "One size doesn't fit all & without personalization, your emails will look like nothing but SPAM"
+  },
+  {
+    "iconSrc": "/image/home-6/service-card-icon-4.svg",
+    "title": "Email Drip Campaign Optimization",
+    "description": "We optimize and measure for one metric, and prospects that are interested in a conversation"
+  }
+]

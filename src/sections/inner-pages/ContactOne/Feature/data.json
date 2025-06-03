@@ -1,0 +1,20 @@
+[
+  {
+    "iconSrc": "/image/contact-details/feature-icon-1.svg",
+    "title": "Chat with us",
+    "description": "We're waiting to help you every Monday-Friday from 9 am to 5 pm EST easily.",
+    "aos": 700
+  },
+  {
+    "iconSrc": "/image/contact-details/feature-icon-2.svg",
+    "title": "Give us a call",
+    "description": "Give us a ring at (+088-234-567-90). Every monday-friday from 9 am to 5 pm.",
+    "aos": 600
+  },
+  {
+    "iconSrc": "/image/contact-details/feature-icon-3.svg",
+    "title": "Email Us",
+    "description": "Drop us an email at example@gmail.com and you'll receive a reply within 24 hours.",
+    "aos": 500
+  }
+]

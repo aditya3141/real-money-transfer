@@ -1,0 +1,21 @@
+
+
+[
+  {
+    "title": " Money Transfer"
+   
+  },
+  {
+    "title": "About Us",
+    "link": "/about"
+  },
+   {
+    "title": "Help",
+    "link": "/help"
+  },
+  {
+    "title": "Contact",
+    "link": "/contact"
+  }
+
+]

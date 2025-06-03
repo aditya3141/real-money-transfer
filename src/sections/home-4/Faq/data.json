@@ -1,0 +1,21 @@
+[
+    {
+        "id":"home-4_faq-item",
+        "active":"true",
+        "parent":"home-4_faq",
+        "title":"Q. What is a digital agency?",
+        "body":"Click the 'register yourself' button to go to the online catalog. Click the 'add to cart' link for one or more packages of courses."
+    },
+    {
+        "id":"home-4_faq-item-2",
+        "parent":"home-4_faq",
+        "title":"Q. What is the time commitment for the courses?",
+        "body":"Click the 'register yourself' button to go to the online catalog. Click the 'add to cart' link for one or more packages of courses."
+    },
+    {
+        "id":"home-4_faq-item-3",
+        "parent":"home-4_faq",
+        "title":"Q. Can I receive college credit for these courses?",
+        "body":"Click the 'register yourself' button to go to the online catalog. Click the 'add to cart' link for one or more packages of courses."
+    }
+]

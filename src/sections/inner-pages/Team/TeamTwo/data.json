@@ -1,0 +1,42 @@
+[
+  {
+    "imgSrc": "/image/team/team-1.png",
+    "title": "Arlene McCoy",
+    "description": "UI/UX Designer"
+  },
+  {
+    "imgSrc": "/image/team/team-2.png",
+    "title": "Theresa Webb",
+    "description": "WP Developer"
+  },
+  {
+    "imgSrc": "/image/team/team-3.png",
+    "title": "JJerome Bell",
+    "description": "HTML Developer"
+  },
+  {
+    "imgSrc": "/image/team/team-4.png",
+    "title": "Darrell Steward",
+    "description": "Product Designer"
+  },
+  {
+    "imgSrc": "/image/team/team-5.png",
+    "title": "Devon Lane",
+    "description": "Marketing Expert"
+  },
+  {
+    "imgSrc": "/image/team/team-6.png",
+    "title": "Floyd Miles",
+    "description": "Product Designer"
+  },
+  {
+    "imgSrc": "/image/team/team-7.png",
+    "title": "Darlene Robertson",
+    "description": "Web Developer"
+  },
+  {
+    "imgSrc": "/image/team/team-8.png",
+    "title": "Bessie Cooper",
+    "description": "President of Sales"
+  }
+]

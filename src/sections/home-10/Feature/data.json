@@ -1,0 +1,32 @@
+[
+  {
+    "iconSrc": "/image/home-10/feature-icon-1.svg",
+    "title": "Edit in a clean, minimalist editor",
+    "description": "You'll enjoy the ability to identify words & replace them, as well as reveal specific bits of code also."
+  },
+  {
+    "iconSrc": "/image/home-10/feature-icon-2.svg",
+    "title": "Write copy & content converts",
+    "description": "Both copywriting & content writing can be used to achieve your goals, but it's important to use."
+  },
+  {
+    "iconSrc": "/image/home-10/feature-icon-3.svg",
+    "title": "Write social media posts & tweets",
+    "description": "Once you click follow, anything that person or organization says will appear on your timeline."
+  },
+  {
+    "iconSrc": "/image/home-10/feature-icon-4.svg",
+    "title": "Write essays, lyrics, and poems",
+    "description": "To cite a poem in an essay, you include quotation marks around a short quote or three lines or less."
+  },
+  {
+    "iconSrc": "/image/home-10/feature-icon-5.svg",
+    "title": "Create content in 65+ languages",
+    "description": "It can read and write content in 65+ languages including English, Spanish, Japanese & others."
+  },
+  {
+    "iconSrc": "/image/home-10/feature-icon-6.svg",
+    "title": "Build an AI-powered business",
+    "description": "Empower your team or customers with an AI writer to improve your processes and products."
+  }
+]

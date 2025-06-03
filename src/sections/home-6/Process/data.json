@@ -1,0 +1,20 @@
+[
+    {
+      "step": 1,
+      "iconSrc": "./image/home-6/service-1.png",
+      "title": "Import perfect audience",
+      "text": "Create manually, use a contact form, or import bulk prospects using CSV or using Google Drive spreadsheets. Maximize your workflow by automatically importing."
+    },
+    {
+      "step": 2,
+      "iconSrc": "./image/home-6/service-2.png",
+      "title": "Write unique messages",
+      "text": "Maximize your open & reply rate making every email stand with personalization. Create your own attributes/merge tag & Add variations with A/B Testing."
+    },
+    {
+      "step": 3,
+      "iconSrc": "./image/home-6/service-3.png",
+      "title": "Turn on automation",
+      "text": "Wake up each day to find leads, directly in your inbox, by building a predictable pipeline. We take prospects who replied automatically out of the campaign."
+    }
+]

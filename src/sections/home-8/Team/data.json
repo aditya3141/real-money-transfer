@@ -1,0 +1,32 @@
+[
+  {
+    "image": "/image/home-8/team-image-1.png",
+    "username": "Arlene McCoy",
+    "userposition": "UI/UX Designer"
+  },
+  {
+    "image": "/image/home-8/team-image-2.png",
+    "username": "Theresa Webb",
+    "userposition": "Project Manager"
+  },
+  {
+    "image": "/image/home-8/team-image-3.png",
+    "username": "Floyd Miles",
+    "userposition": "Marketing Expert"
+  },
+  {
+    "image": "/image/home-8/team-image-4.png",
+    "username": "Darlene Robertson",
+    "userposition": "Web Developer"
+  },
+  {
+    "image": "/image/home-8/team-image-5.png",
+    "username": "Bessie Cooper",
+    "userposition": "Product Designer"
+  },
+  {
+    "image": "/image/home-8/team-image-6.png",
+    "username": "Jerome Bell",
+    "userposition": "HTML Developer"
+  }
+]

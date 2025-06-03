@@ -1,0 +1,32 @@
+[
+  {
+    "iconSrc": "/image/about/feature-icon-1.svg",
+    "title": "Passionate about work",
+    "description": "Passion for work is a enthusiasm and excitement for what you do."
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-2.svg",
+    "title": "Creative team members",
+    "description": "A creative team is to design and execute campaigns & encourage"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-3.svg",
+    "title": "Innovation solutions",
+    "description": "using either completely concepts finding new ways of using existing"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-4.svg",
+    "title": "Qualitiful products",
+    "description": "Product quality refers to how well a product satisfies our customer"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-5.svg",
+    "title": "Customer satisfaction",
+    "description": "Happy customers are delighted because of the customer service"
+  },
+  {
+    "iconSrc": "/image/about/feature-icon-6.svg",
+    "title": "Simplicity interface",
+    "description": "Simplicity is used loosely to refer to the need to minimize a process"
+  }
+]

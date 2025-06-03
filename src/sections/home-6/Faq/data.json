@@ -1,0 +1,24 @@
+[
+  {
+    "active": "true",
+    "id": "home-6-faq-item",
+    "parent": "home-6_faq",
+    "titleBefore": "<i className=\"fa-solid fa-question\"></i>",
+    "title": "What exactly is a cold email?",
+    "body": "A cold email is an initial email that is sent to a receiver in order to gain a benefit  in terms of favor, sales, opportunity or any other dual-sided gain. In simple words, when you email someone you don’t know for some particular reason is cold emailing."
+  },
+  {
+    "id": "home-6-faq-item-2",
+    "parent": "home-6_faq",
+    "titleBefore": "<i className=\"fa-solid fa-question\"></i>",
+    "title": "Why is cold emailing important?",
+    "body": "A cold email is an initial email that is sent to a receiver in order to gain a benefit  in terms of favor, sales, opportunity or any other dual-sided gain. In simple words, when you email someone you don’t know for some particular reason is cold emailing."
+  },
+  {
+    "id": "home-6-faq-item-3",
+    "parent": "home-6_faq",
+    "titleBefore": "<i className=\"fa-solid fa-question\"></i>",
+    "title": "Is cold email effective for the next generation?",
+    "body": "A cold email is an initial email that is sent to a receiver in order to gain a benefit  in terms of favor, sales, opportunity or any other dual-sided gain. In simple words, when you email someone you don’t know for some particular reason is cold emailing."
+  }
+]

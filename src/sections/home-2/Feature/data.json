@@ -1,0 +1,17 @@
+[
+    {
+      "icon":"./image/icons/h02-feature-1.svg",
+      "title":"Multilingual chat widget",
+      "text":"Let your customers see the widget in their native languages for communication"
+    },
+    {
+      "icon":"./image/icons/h02-feature-2.svg",
+      "title":"Live visitors list",
+      "text":"See who your customers are and make the conversation more personal to boost"
+    },
+    {
+      "icon":"./image/icons/h02-feature-3.svg",
+      "title":"Record and keep private",
+      "text":"Record all your conversations and keep them private so they can't be hacked"
+    }
+  ]

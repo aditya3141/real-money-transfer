@@ -1,0 +1,33 @@
+[
+    {
+        "active":"true",
+        "id":"home-1-faq-item",
+        "parent":"home-1-faq",
+        "title":"Q. What is a digital agency?",
+        "body": "A digital agency is a company that leverages digital channels to grow their clients’ brands online. It offers services and technologies such as web design, digital marketing, creative design, and app development."
+      },
+      {
+        "id":"home-1-faq-item-2",
+        "parent":"home-1-faq",
+        "title":"Q. What services does a digital agency prov 'id'e?",
+        "body": "A digital agency is a company that leverages digital channels to grow their clients’ brands online. It offers services and technologies such as web design, digital marketing, creative design, and app development."
+      },
+      {
+        "id":"home-1-faq-item-3",
+        "parent":"home-1-faq",
+        "title":"Q. Hiring a digital agency vs hiring in-house: What is the difference?",
+        "body": "A digital agency is a company that leverages digital channels to grow their clients’ brands online. It offers services and technologies such as web design, digital marketing, creative design, and app development."
+      },
+      {
+        "id":"home-1-faq-item-4",
+        "parent":"home-1-faq",
+        "title":"Q. What questions should you ask when interviewing a digital agency?",
+        "body": "A digital agency is a company that leverages digital channels to grow their clients’ brands online. It offers services and technologies such as web design, digital marketing, creative design, and app development."
+      },
+      {
+        "id":"home-1-faq-item-5",
+        "parent":"home-1-faq",
+        "title":"Q. How do digital agencies charge for their services?",
+        "body": "A digital agency is a company that leverages digital channels to grow their clients’ brands online. It offers services and technologies such as web design, digital marketing, creative design, and app development."
+      }
+]

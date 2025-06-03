@@ -1,0 +1,77 @@
+{
+  "navListInline": [
+    {
+      "title": "Show all",
+      "isActive": true,
+      "data_filter": "*"
+    },
+    {
+      "title": "Website",
+      "data_filter": "portfolio-1"
+    },
+    {
+      "title": "Branding",
+      "data_filter": "portfolio-2"
+    },
+    {
+      "title": "Design",
+      "data_filter": "portfolio-3"
+    }
+  ],
+  "portfolioContent": [
+    {
+      "image": "/image/portfolio-3/1.png",
+      "title": "Applications — UI/UX Design",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum",
+      "data_filter": "portfolio-1 portfolio-3"
+    },
+    {
+      "image": "/image/portfolio-3/2.png",
+      "title": "Website — Branding",
+      "data_filter": "portfolio-2 portfolio-3",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    },
+    {
+      "image": "/image/portfolio-3/3.png",
+      "title": "Campaign — Marketing",
+      "data_filter": "portfolio-2 portfolio-1",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    },
+    {
+      "image": "/image/portfolio-3/4.png",
+      "title": "Journal — Commercial",
+      "data_filter": "portfolio-3 portfolio-2",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    },
+    {
+      "image": "/image/portfolio-3/5.png",
+      "title": "Book — UI/UX Design",
+      "data_filter": "portfolio-1 portfolio-2",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    },
+    {
+      "image": "/image/portfolio-3/6.png",
+      "title": "Strategic — UI/UX Design",
+      "data_filter": "portfolio-3 portfolio-2",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    },
+    {
+      "image": "/image/portfolio-3/7.png",
+      "title": "Ad Campaign — UI/UX Design",
+      "data_filter": "portfolio-3 portfolio-2",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    },
+    {
+      "image": "/image/portfolio-3/8.png",
+      "title": "Marketing — Branding",
+      "data_filter": "portfolio-1 portfolio-2",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    },
+    {
+      "image": "/image/portfolio-3/9.png",
+      "title": "Digital Art — Commercial",
+      "data_filter": "portfolio-1 portfolio-3",
+      "text": "Lectus faucibus ac sollicitudin feugiat sit. Ac tellus sit commodo duis mi interdum"
+    }
+  ]
+}

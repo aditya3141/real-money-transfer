@@ -1,0 +1,22 @@
+[
+  {
+    "imgSrc": "/image/about/team-image-1.png",
+    "title": "Arlene McCoy",
+    "description": "UI/UX Designer"
+  },
+  {
+    "imgSrc": "/image/about/team-image-2.png",
+    "title": "Theresa Webb",
+    "description": "WP Developer"
+  },
+  {
+    "imgSrc": "/image/about/team-image-3.png",
+    "title": "JJerome Bell",
+    "description": "HTML Developer"
+  },
+  {
+    "imgSrc": "/image/about/team-image-4.png",
+    "title": "Darrell Steward",
+    "description": "Product Designer"
+  }
+]

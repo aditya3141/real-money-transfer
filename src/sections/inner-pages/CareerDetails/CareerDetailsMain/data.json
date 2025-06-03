@@ -1,0 +1,17 @@
+[
+  {
+    "imgSrc": "/image/career/phone.svg",
+    "title": "Call us",
+    "contact": "+088-234-6534-563"
+  },
+  {
+    "imgSrc": "/image/career/mail.svg",
+    "title": "Email us",
+    "contact": "example@gmail.com"
+  },
+  {
+    "imgSrc": "/image/career/location.svg",
+    "title": "Office address",
+    "contact": "4132 Thornridge City, New York."
+  }
+]

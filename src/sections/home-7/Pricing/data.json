@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Basic",
+    "monthlyPrice": "2.99",
+    "yearlyPrice": "19.00",
+    "btnClass": "btn-masco btn-outline rounded-pill w-100",
+    "listItem": [
+      { "text": "Single website builder" },
+      { "text": "One-click WordPress installs" },
+      { "text": "Basic widget customization" },
+      { "text": "Unmetered bandwidth" },
+      { "text": "Free SSL certificate", "class": "disabled" },
+      { "text": "Free premium themes & plugins", "class": "disabled" }
+    ]
+  },
+  {
+    "isActive": true,
+    "name": "Popular",
+    "monthlyPrice": "18.99",
+    "yearlyPrice": "15.19",
+    "btnClass": "btn-masco btn-primary-l07 rounded-pill  w-100",
+    "listItem": [
+      { "text": "Unlimited websites builde" },
+      { "text": "One-click WordPress installs" },
+      { "text": "Basic widget customization" },
+      { "text": "Unmetered bandwidth" },
+      { "text": "Free SSL certificate" },
+      { "text": "Free premium themes & plugins", "class": "disabled" }
+    ]
+  },
+  {
+    "name": "Enterprise",
+    "monthlyPrice": "39.00",
+    "yearlyPrice": "33.39",
+    "btnClass": "btn-masco btn-outline rounded-pill w-100",
+    "listItem": [
+      { "text": "Unlimited websites builder" },
+      { "text": "One-click WordPress installs" },
+      { "text": "Basic widget customization" },
+      { "text": "Unmetered bandwidth" },
+      { "text": "Free SSL certificate" },
+      { "text": "Free premium themes & plugins" }
+    ]
+  }
+]

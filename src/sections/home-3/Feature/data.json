@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "/image/icons/h03-feature-1.svg",
+      "title": "Monitor your diet easily",
+      "text": "Track the times you eat, the foods you eat, portion sizes, and notes."
+    },
+    {
+      "icon": "/image/icons/h03-feature-2.svg",
+      "title": "Give health & fitness tips",
+      "text": "Exercise is very important for us to be fit and healthy& every tips."
+    },
+    {
+      "icon": "/image/icons/h03-feature-3.svg",
+      "title": "All-in-one health tool",
+      "text": "It can help you set fitness goals, it with wearable fitness technology."
+    }
+  ]

@@ -1,0 +1,106 @@
+@use "./abstract/variable" as *;
+.accordion-style-1 {
+  // border: 0;
+  background: #fff;
+
+  .accordion {
+    --bs-accordion-bg: none;
+  }
+
+  .accordion-item {
+    --bs-accordion-border-width: 0;
+    border: inherit;
+
+    .accordion-button {
+      --bs-accordion-active-bg: transparent;
+      color: initial;
+      padding: 0;
+
+      &::after {
+        background-image: none;
+        transform: rotate(0);
+      }
+
+      .collapsed {
+        &:after {
+          transform: rotate(0);
+        }
+      }
+    }
+  }
+
+  .accordion-body {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.accordion-style-2 {
+  // border: 0;
+  background: #fdfbf9;
+
+  .accordion {
+    --bs-accordion-bg: none;
+    --bs-accordion-btn-padding-x: 0;
+  }
+  .accordion-item {
+    --bs-accordion-border-width: 0;
+    border: inherit;
+    &.collapsed {
+      background: #f5efeb;
+    }
+    .accordion-button {
+      --bs-accordion-active-bg: transparent;
+      color: initial;
+      padding: 0;
+
+      &::after {
+        background-image: none;
+      }
+    }
+  }
+}
+
+.accordion-body {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+// .isotope-react-grid{
+//   display: flex;
+//   flex-wrap: wrap;
+//   >{
+//     width: 33.333%;
+//   }
+// }
+
+//   .isotope-react-grid{
+//     display: grid;
+//       grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+//       grid-column-gap: 1rem;
+//       grid-row-gap: 2rem;
+//   }
+
+
+.transform-none{
+  transform: none!important;
+}
+
+.cursor-pointer{
+  cursor: pointer;
+}
+
+.btn-masco{
+  &:hover{
+    color: unset;
+  }
+}
+
+.video-widget{
+  &:hover{
+    .btn-play{
+      background-color: #f5efeb;
+      color: $black;
+    }
+  }
+}

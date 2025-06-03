@@ -1,0 +1,43 @@
+[
+  {
+    "active": "true",
+    "id": "home-10-service-item",
+    "parent": "home-10_faq",
+    "titleBefore": "<img src=\"./image/home-10/service-icon-1.svg\" alt=\"faq icon\">",
+    "imgSrc": "/image/home-10/service-icon-1.svg",
+    "title": "Blog and article writing",
+    "body": "Write blogs and articles of 300 to 1000 words instantly with our AI writing tool, rhythm & composition like a pro"
+  },
+  {
+    "id": "home-10-service-item-2",
+    "parent": "home-10_faq",
+    "titleBefore": "<img src=\"./image/home-10/service-icon-2.svg\" alt=\"faq icon\">",
+    "imgSrc": "/image/home-10/service-icon-2.svg",
+    "title": "eCommerce content copyright free",
+    "body": "Write blogs and articles of 300 to 1000 words instantly with our AI writing tool, rhythm & composition like a pro"
+  },
+  {
+    "id": "home-10-service-item-3",
+    "parent": "home-10_faq",
+    "titleBefore": "<img src=\"./image/home-10/service-icon-3.svg\" alt=\"faq icon\">",
+    "imgSrc": "/image/home-10/service-icon-3.svg",
+    "title": "Paid ads & social media copy",
+    "body": "Write blogs and articles of 300 to 1000 words instantly with our AI writing tool, rhythm & composition like a pro"
+  },
+  {
+    "id": "home-10-service-item-4",
+    "parent": "home-10_faq",
+    "titleBefore": "<img src=\"./image/home-10/service-icon-4.svg\" alt=\"faq icon\">",
+    "imgSrc": "/image/home-10/service-icon-4.svg",
+    "title": "Emails and business communication",
+    "body": "Write blogs and articles of 300 to 1000 words instantly with our AI writing tool, rhythm & composition like a pro"
+  },
+  {
+    "id": "home-10-service-item-5",
+    "parent": "home-10_faq",
+    "titleBefore": "<img src=\"./image/home-10/service-icon-5.svg\" alt=\"faq icon\">",
+    "imgSrc": "/image/home-10/service-icon-5.svg",
+    "title": "Website content writing",
+    "body": "Write blogs and articles of 300 to 1000 words instantly with our AI writing tool, rhythm & composition like a pro"
+  }
+]

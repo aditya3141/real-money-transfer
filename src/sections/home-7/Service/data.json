@@ -1,0 +1,50 @@
+[
+  {
+    "iconSrc": "./image/home-7/feature-1.svg",
+    "title": "Website Migration",
+    "description": "Website migration redirects all of your old webpages to new pages or changing site.",
+    "aos": 800
+  },
+  {
+    "iconSrc": "./image/home-7/feature-2.svg",
+    "title": "Business Hosting",
+    "description": "Hosting gives you the tools you need to run website and  portions of your business.",
+    "aos": 700
+  },
+  {
+    "iconSrc": "./image/home-7/feature-3.svg",
+    "title": "E-commerce Hosting",
+    "description": "Our servers support a best open-source eCommerce tools & includes features.",
+    "aos": 600
+  },
+  {
+    "iconSrc": "./image/home-7/feature-4.svg",
+    "title": "Website Builder",
+    "description": "Build a professional website for free with us. Also mobile-friendly & modern templates. ",
+    "aos": 500
+  },
+  {
+    "iconSrc": "./image/home-7/feature-5.svg",
+    "title": "PCI Compliance",
+    "description": "The PCI Security Standards Council operates programs to train, test, and qualify.",
+    "aos": 400
+  },
+  {
+    "iconSrc": "./image/home-7/feature-6.svg",
+    "title": "Blog Hosting",
+    "description": "Blogging solutions for first-time bloggers as well as the seasoned with experts.",
+    "aos": 300
+  },
+  {
+    "iconSrc": "./image/home-7/feature-7.svg",
+    "title": "Data Backup",
+    "description": "Data backup is the practice of copying data a primary to a secondary location.",
+    "aos": 200
+  },
+  {
+    "iconSrc": "./image/home-7/feature-8.svg",
+    "title": "Website Security",
+    "description": "Website security is any action taken or application put in place to ensure.",
+    "aos": 100
+  }
+]

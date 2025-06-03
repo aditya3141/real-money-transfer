@@ -1,0 +1,71 @@
+{
+  "careerFilterNav": [
+    {
+      "title": "All",
+      "data_filter": "*",
+      "isActive": "true"
+    },
+    {
+      "title": "Design",
+      "data_filter": "portfolio-1"
+    },
+    {
+      "title": "Development",
+      "data_filter": "portfolio-2"
+    },
+    {
+      "title": "Business",
+      "data_filter": "portfolio-3"
+    }
+  ],
+  "careerCard": [
+    {
+      "title": "UI/UX and product designer",
+      "text": "Specify the job position you are applying for & Introduce yourself and highlight your skills and qualifications. Tailor your resume",
+      "time": "Full Time",
+      "location": "London, UK",
+      "money": "$25k-$40k",
+      "data_filter": "portfolio-1 portfolio-3"
+    },
+    {
+      "title": "Junior content writer",
+      "text": "Specify the job position you are applying for & Introduce yourself and highlight your skills and qualifications. Tailor your resume",
+      "time": "Remote",
+      "location": "California",
+      "money": "$45k-$60k",
+      "data_filter": "portfolio-3 portfolio-2"
+    },
+    {
+      "title": "Junior video editor",
+      "text": "Specify the job position you are applying for & Introduce yourself and highlight your skills and qualifications. Tailor your resume",
+      "time": "Full Time",
+      "location": "New York",
+      "money": "$15k-$35k",
+      "data_filter": "portfolio-2 portfolio-3"
+    },
+    {
+      "title": "Graphic designer",
+      "text": "Specify the job position you are applying for & Introduce yourself and highlight your skills and qualifications. Tailor your resume",
+      "time": "Full Time",
+      "location": "United State",
+      "money": "$35k-$45k",
+      "data_filter": "portfolio-2 portfolio-1"
+    },
+    {
+      "title": "Backend developer",
+      "text": "Specify the job position you are applying for & Introduce yourself and highlight your skills and qualifications. Tailor your resume",
+      "time": "Remote",
+      "location": "United State",
+      "money": "$10k-$35k",
+      "data_filter": "portfolio-2 portfolio-3"
+    },
+    {
+      "title": "Marketing manager",
+      "text": "Specify the job position you are applying for & Introduce yourself and highlight your skills and qualifications. Tailor your resume",
+      "time": "Full Time",
+      "location": "London, UK",
+      "money": "$25k-$40k",
+      "data_filter": "portfolio-1 portfolio-3"
+    }
+  ]
+}

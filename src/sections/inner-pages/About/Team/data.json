@@ -1,0 +1,22 @@
+[
+  {
+    "imgSrc": "./image/about/team-image-1.png",
+    "title": "Eleanor Pena",
+    "description": "CEO & Co-founder"
+  },
+  {
+    "imgSrc": "./image/about/team-image-2.png",
+    "title": "Leslie Alexander",
+    "description": "Product Manager"
+  },
+  {
+    "imgSrc": "./image/about/team-image-3.png",
+    "title": "Jane Cooper",
+    "description": "Web Developer"
+  },
+  {
+    "imgSrc": "./image/about/team-image-4.png",
+    "title": "Floyd Miles",
+    "description": "Marketing Expert"
+  }
+]

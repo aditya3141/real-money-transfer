@@ -1,0 +1,41 @@
+{
+  "navListInline": [
+    {
+      "title": "Show all",
+      "data_filter": "*",
+      "isActive": true
+    },
+    {
+      "title": "Website",
+      "data_filter": "portfolio-1"
+    },
+    {
+      "title": "Branding",
+      "data_filter": "portfolio-2"
+    },
+    {
+      "title": "Design",
+      "data_filter": "portfolio-3"
+    }
+  ],
+  "portfolioContent": [
+    {
+      "image": "/image/portfolio-4/1.png",
+      "title": "Applications — UI/UX Design",
+      "text": "Branding is the process of creating a distinct identity for a business in the mind of your target audience and consumers. At the the most basic level.",
+      "data_filter": "portfolio-3 portfolio-1"
+    },
+    {
+      "image": "/image/portfolio-4/2.png",
+      "title": "Website — Branding",
+      "text": "Branding is the process of creating a distinct identity for a business in the mind of your target audience and consumers. At the the most basic level.",
+      "data_filter": "portfolio-2 portfolio-3"
+    },
+    {
+      "image": "/image/portfolio-4/3.png",
+      "title": "Book — Commercial",
+      "text": "Branding is the process of creating a distinct identity for a business in the mind of your target audience and consumers. At the the most basic level.",
+      "data_filter": "portfolio-1 portfolio-2"
+    }
+  ]
+}

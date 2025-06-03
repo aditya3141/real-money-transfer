@@ -1,0 +1,14 @@
+[
+  {
+    "image": "/image/home-1/porfolio-img2.png",
+    "title": "App — The power of communication",
+    "category": "UI/UX Design",
+    "link": "/portfolio-details"
+  },
+  {
+    "image": "/image/home-1/porfolio-img1.png",
+    "title": "Website — The future lifestyle platform.",
+    "category": "Branding",
+    "link": "/portfolio-details"
+  }
+]

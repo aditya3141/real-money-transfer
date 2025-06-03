@@ -1,0 +1,29 @@
+[
+  {
+    "imgSrc": "/image/blog/blog-image-1.png",
+    "userImg": "/image/blog/user-image.png",
+    "userName": " By Willium Mark",
+    "date": " Jan 28, 2023",
+    "category": " Business",
+    "title": "  How we use Slack, Trello, and TeamGantt for best project management as a digital agency",
+    "description": " We’d been making awesome apps for years now, but always just barely stumbled through project management. We pissed off clients and burned bridges, even though we were..."
+  },
+  {
+    "imgSrc": "/image/blog/blog-image-2.png",
+    "userImg": "/image/blog/user-image-2.png",
+    "userName": "By Leslie Alexander",
+    "date": "Jan 20, 2023",
+    "category": "Technology",
+    "title": " Hiring a digital agency — 5 things you need to check out before signing up &amp; the future of the digital agency",
+    "description": "The Digital Agency wasn’t set up to only serve ads. No, sir. It was setup to improve process, from backroom to front desk marketing. Digital agencies need to be able to help clients..."
+  },
+  {
+    "imgSrc": "/image/blog/blog-image-3.png",
+    "userImg": "/image/blog/user-image-3.png",
+    "userName": "By Marvin McKinney",
+    "date": "Jan 14, 2023",
+    "category": "Marketing",
+    "title": "Difficulties of running a digital agency in the competitive market [PODCAST] why digital agency sucks",
+    "description": "From what you do I noticed that you have a certain style of explainer videos which is really awesome and I love it! Since you said that you also focus on digital products..."
+  }
+]

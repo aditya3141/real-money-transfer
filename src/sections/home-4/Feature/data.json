@@ -1,0 +1,22 @@
+[
+    {
+      "title": "New Skills",
+      "text": "Learning keeps your mind engaged and active. It helps you get new & knowledge.",
+      "icon": "/image/home-4/skill-icon.svg"
+    },
+    {
+      "title": "Made By Experts",
+      "text": "Our library of trusted mentors and lessons covers math, science and more.",
+      "icon": "/image/home-4/expert-icon.svg"
+    },
+    {
+      "title": "Career Opportunities",
+      "text": "It refers to any opportunities that take you closer to your career goals achievement.",
+      "icon": "/image/home-4/job-icon.svg"
+    },
+    {
+      "title": "Lifelong Learning",
+      "text": "We create articles, tutorials & webinars with trailblazers in the web community.",
+      "icon": "/image/home-4/lifelong-icon.svg"
+    }
+  ]

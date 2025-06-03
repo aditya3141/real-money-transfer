@@ -1,0 +1,62 @@
+[
+    {
+        "image":"./image/home-4/course-1.png",
+        "meta":{
+            "tag":"Digital Marketing",
+            "courseAmount":"942 Courses",
+            "rating":"4.8"
+        },
+        "title":"Digital marketing course gives you modern skills",
+        "buttonText":"Purchase only $10.00"
+    },
+    {
+        "image":"./image/home-4/course-2.png",
+        "meta":{
+            "tag":"Photography",
+            "courseAmount":"124 Courses",
+            "rating":"3.5"
+        },
+        "title":"Improve photography skills & you'll learn to use lenses",
+        "buttonText":"Purchase for free"
+    },
+    {
+        "image":"./image/home-4/course-3.png",
+        "meta":{
+            "tag":"Video Editing",
+            "courseAmount":"22 Courses",
+            "rating":"5.0"
+        },
+        "title":"Programing language helps to solve problems logically",
+        "buttonText":"Purchase only $650.00"
+    },
+    {
+        "image":"./image/home-4/course-4.png",
+        "meta":{
+            "tag":"Art & Music",
+            "courseAmount":"502 Courses",
+            "rating":"4.9"
+        },
+        "title":"This course improves your skills in a variety of ways",
+        "buttonText":"Purchase for free"
+    },
+    {
+        "image":"./image/home-4/course-5.png",
+        "meta":{
+            "tag":"Lifestyle",
+            "courseAmount":"832 Courses",
+            "rating":"3.0"
+        },
+        "title":"It helps improve self-esteem & increase life-satisfaction",
+        "buttonText":"Purchase only $45.00"
+    },
+    {
+        "image":"./image/home-4/course-6.png",
+        "meta":{
+            "tag":"UI/UX Design",
+            "courseAmount":"649 Courses",
+            "rating":"4.0"
+        },
+        "title":"UI/UX design teaches how to make a product attractive ",
+        "buttonText":"Purchase only $250.00"
+    }
+]

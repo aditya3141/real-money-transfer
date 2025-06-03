@@ -1,0 +1,20 @@
+[
+  {
+    "id": "home-10-faq-item-1",
+    "parent": "home-10-faq-2",
+    "title": "Q. What is an AI text generator, exactly?",
+    "body": "An AI text generator is a software tool that helps you create content like blog articles, product descriptions, and marketing."
+  },
+  {
+    "id": "home-10-faq-item-2",
+    "parent": "home-10-faq-2",
+    "title": "Q. How does an AI text generator work?",
+    "body": "An AI text generator is a software tool that helps you create content like blog articles, product descriptions, and marketing."
+  },
+  {
+    "id": "home-1-faq-item-3",
+    "parent": "home-10-faq-2",
+    "title": "Q. What languages do support with AI writing?",
+    "body": "An AI text generator is a software tool that helps you create content like blog articles, product descriptions, and marketing."
+  }
+]

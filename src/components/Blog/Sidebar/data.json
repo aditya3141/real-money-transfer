@@ -1,0 +1,20 @@
+[
+  {
+    "imgSrc": "/image/blog/recent-1.png",
+    "date": "Jan 20, 2023",
+    "title": "Six ‘what ifs’ that could transformdigital agency",
+    "url": "./blog-details.html"
+  },
+  {
+    "imgSrc": "/image/blog/recent-2.png",
+    "date": "Jan 18, 2023",
+    "title": "Case story: How to the design avatar generator",
+    "url": "./blog-details.html"
+  },
+  {
+    "imgSrc": "/image/blog/recent-3.png",
+    "date": "Jan 05, 2023",
+    "title": "Build a digital agency website in 4 easy steps",
+    "url": "./blog-details.html"
+  }
+]

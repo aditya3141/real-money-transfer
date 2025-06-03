@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Silver Plan",
+    "monthlyPrice": "$30.00",
+    "yearlyPrice": "$19.00",
+    "icon": "/image/home-5/pricing-card-icon-1.svg",
+    "btnClass": "btn-masco btn-secondary-l05 w-100",
+    "listItem": [
+      "50 key phrases optimized",
+      "30 pages optimized",
+      "6 CRO assets per quarter",
+      "8 custom dashboards",
+      "Revenue tracking dashboard"
+    ]
+  },
+  {
+    "name": "Gold Plan",
+    "monthlyPrice": "$50.00",
+    "yearlyPrice": "$37.00",
+    "icon": "/image/home-5/pricing-card-icon-2.svg",
+    "btnClass": "btn-masco btn-primary-l05 btn-hvr-black w-100",
+    "listItem": [
+      "200 key phrases optimized",
+      "40 pages optimized",
+      "12 CRO assets per quarter",
+      "10 custom dashboards",
+      "Revenue tracking dashboard"
+    ]
+  },
+  {
+    "name": "Diamond Plan",
+    "monthlyPrice": "$80.00",
+    "yearlyPrice": "$59.00",
+    "icon": "/image/home-5/pricing-card-icon-3.png",
+    "btnClass": "btn-masco btn-secondary-l05 w-100",
+    "listItem": [
+      "300 key phrases optimized",
+      "60 pages optimized",
+      "24 CRO assets per quarter",
+      "12 custom dashboards",
+      "Revenue tracking dashboard"
+    ]
+  }
+]

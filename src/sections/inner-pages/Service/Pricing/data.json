@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Silver Plan",
+    "price": "00",
+    "isActive": "",
+    "btnClass": "btn-masco btn-outline rounded-pill w-100",
+    "listItems": [
+      { "text": "Unlimited chats & websites" },
+      { "text": "60-day conversations history" },
+      { "text": "Basic widget customization" },
+      { "text": "Web, desktop & mobile apps" },
+      { "text": "Engage visitors via visitor list", "class": "disabled" },
+      { "text": "Engage with automatic messages", "class": "disabled" }
+    ]
+  },
+  {
+    "name": "Popular Plan",
+    "price": "  199",
+    "isActive": "active",
+
+    "btnClass": "btn-masco rounded-pill w-100",
+    "listItems": [
+      { "text": "Live chat + email + FB Messenger " },
+      { "text": "3-year conversations history " },
+      { "text": "Advanced widget customization" },
+      { "text": "24/7 system monitoring facility " },
+      { "text": "Engage visitors via visitor list " },
+      { "text": "Engage with automatic messages " }
+    ]
+  },
+  {
+    "name": "Standard Plan",
+    "price": "49",
+    "isActive": "",
+    "btnClass": "btn-masco btn-outline rounded-pill w-100",
+    "listItems": [
+      { "text": "Live chat + email + FB Messenger" },
+      { "text": "1- year conversations history" },
+      { "text": "Advanced widget customization" },
+      { "text": "24/7 system monitoring facility" },
+      { "text": "Engage visitors via visitor list", "class": "disabled" },
+      { "text": "Engage with automatic messages", "class": "disabled" }
+    ]
+  }
+]

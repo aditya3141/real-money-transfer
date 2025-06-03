@@ -1,0 +1,17 @@
+[
+    {
+        "thumbnail": "./image/home-3/video-thumbnail-1.png",
+        "title": "Custom workout plans",
+        "description": "Snaga is fully customizable workout app. Whether you do weightlifting, physical etc."
+    },
+    {
+        "thumbnail": "./image/home-3/video-thumbnail-2.png",
+        "title": "Clearing meditation",
+        "description": "A highly accessible meditation that will create more clarity & space in the body."
+    },
+    {
+        "thumbnail": "./image/home-3/video-thumbnail-3.png",
+        "title": "Daily fitness challenges",
+        "description": "Snaga gives you achieve a specific goal with a specific exercise for daily activities."
+    }
+]

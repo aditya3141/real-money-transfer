@@ -1,0 +1,22 @@
+[
+  {
+    "image": "./image/home-5/team-section-image-1.png",
+    "name": "Cameron Williamsons",
+    "position": "CEO@Company "
+  },
+  {
+    "image": "./image/home-5/team-section-image-2.png",
+    "name": "Leslie Alexanders ",
+    "position": "Senior SEO Manager     "
+  },
+  {
+    "image": "./image/home-5/team-section-image-3.png",
+    "name": "Esther Howard ",
+    "position": "WP Developer  "
+  },
+  {
+    "image": "./image/home-5/team-section-image-4.png",
+    "name": "Kristin Watson ",
+    "position": "SEO Executive "
+  }
+]

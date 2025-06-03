@@ -1,0 +1,22 @@
+[
+  {
+    "imageSrc": "/image/home-9/feature-icon-1.svg",
+    "title": "Create effective work schedules",
+    "description": "Planning ahead is a key factor when creating an employee work schedule important for business."
+  },
+  {
+    "imageSrc": "/image/home-9/feature-icon-2.svg",
+    "title": " Track both online &amp; offline time",
+    "description": "Offline time tracking is the time tracking feature that is used to track the time at work productive."
+  },
+  {
+    "imageSrc": "/image/home-9/feature-icon-3.svg",
+    "title": "Automatically track work hours",
+    "description": "It's a simple automatic time tracker that helps your teams log billable hours for all projects."
+  },
+  {
+    "imageSrc": "/image/home-9/feature-icon-4.svg",
+    "title": "Manage all your projects on time",
+    "description": " Project time management directly impacts the quality, scope, and cost of a project, making it."
+  }
+]
