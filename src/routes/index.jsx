@@ -1,13 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import App from "../pages";
 import Homepage from "../pages/Home";
-import HomepageTwo from "../pages/HomeTwo";
-import HomepageThree from "../pages/HomeThree";
-import HomepageFour from "../pages/HomeFour";
-import HomepageFive from "../pages/HomeFive";
-import HomepageSix from "../pages/HomeSix";
-import HomepageSeven from "../pages/HomeSeven";
-import HomepageEight from "../pages/HomeEight";
 import ResetPasswordPage from "../pages/ResetPasswordPage";
 import SignInPage from "../pages/SignInPage";
 import SignUpPage from "../pages/SignUpPage";
@@ -43,34 +36,6 @@ export const router = createBrowserRouter([
   {
     path: "/home",
     element: <Homepage />,
-  },
-  {
-    path: "/home-2",
-    element: <HomepageTwo />,
-  },
-  {
-    path: "/home-3",
-    element: <HomepageThree />,
-  },
-  {
-    path: "/home-4",
-    element: <HomepageFour />,
-  },
-  {
-    path: "/home-5",
-    element: <HomepageFive />,
-  },
-  {
-    path: "/home-6",
-    element: <HomepageSix />,
-  },
-  {
-    path: "/home-7",
-    element: <HomepageSeven />,
-  },
-  {
-    path: "/home-8",
-    element: <HomepageEight />,
   },
 
  
